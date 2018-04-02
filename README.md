@@ -10,9 +10,9 @@ We have guides for everyone whether you are **beginner, intermediate or advanced
 
 ## Motivation
 
-Ever been **frustrated finding information on outdated one-off blog posts and tutorials** that has since become irrelevant? How many times were you googling only to find your answer only on a **2 year old Stack Overflow post**? We believe there's got to be a better way. Why not have the community work together to create useful and detailed documentation for every aspect of Android (or any platform)? There's absolutely no reason that we should have to make do with outdated, vague or un-editable content anymore.
+Ever been **frustrated finding information on outdated one-off blog posts and tutorials** that has since become irrelevant? How many times were you googling only to find your answer only on a **2-year-old Stack Overflow post**? We believe there's got to be a better way. Why not have the community work together to create useful and detailed documentation for every aspect of Android (or any platform)? There is no reason that we should make do with outdated, vague or un-editable content.
 
-Read about our [mission to change the way engineers learn new technologies](https://github.com/codepath/android_guides/wiki/The-CodePath-Goal) and we would love for you to [get involved](https://github.com/codepath/android_guides/wiki/The-CodePath-Goal#how-do-i-help)! In addition, we are a fledgling startup so if you like this guide and what we are trying to do, please consider following us on twitter [@codepath](https://twitter.com/codepath)! 
+Read about our [mission to change the way engineers learn new technologies](https://github.com/codepath/android_guides/wiki/The-CodePath-Goal) and we would love for you to [get involved](https://github.com/codepath/android_guides/wiki/The-CodePath-Goal#how-do-i-help)! In addition, we are a fledgling startup so if you like this guide and what we are trying to do, please consider following us on Twitter [@codepath](https://twitter.com/codepath)! 
 
 ## Live in San Francisco?
 
@@ -22,7 +22,7 @@ If you are an experienced engineer (2+ years of professional experience in softw
 
 ## We Need Your Help!
 
-We need your help making the guides even better. In particular, here are the easiest ways to contribute:
+We need your help making the guides even better. In particular, here are easiest ways to contribute:
 
 1. **Update Guides.** Review existing guides and update outdated content, add tips or add/update images
 2. **Fill Out Guides.** Find guides that are [simply stubs](https://github.com/codepath/android_guides/issues/2) and fill them out with content.
@@ -30,7 +30,7 @@ We need your help making the guides even better. In particular, here are the eas
 
 We [maintain a master missing topics list](https://github.com/codepath/android_guides/issues/2) that contains the most important missing topics. Also look for items in the cliffnotes with the **Needs Attention** mark which indicates the guide needs some love. If you see a topic you'd like added, please check the [issues](https://github.com/codepath/android_guides/issues) for this repository to let us know.
 
-If you are interested in contributing to our guides, please check out our [contribution guidelines](https://github.com/codepath/android_guides/wiki/Contributing-Guidelines) first.
+This is our [contribution guidelines](https://github.com/codepath/android_guides/wiki/Contributing-Guidelines).
 
 ## Contributors
 
